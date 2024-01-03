@@ -206,10 +206,28 @@ holidays:
       #   name: Espírito Santo
       #  zones:
       #    - America/Sao_Paulo
-      # GO:
-      #   name: Goiás
-      #  zones:
-      #    - America/Sao_Paulo
+      GO:
+        name: Goiás
+        zones:
+          - America/Sao_Paulo
+        regions:
+          GO:
+            name: Goiânia
+            days:
+              11-12:
+                _name: 11-12
+                name:
+                  pt: Nossa Senhora Auxiliadora
+                type: public
+                active:
+                  - from: 1956-11-12
+              08-27:
+                _name: 08-27
+                name:
+                  pt: Aniversário de Goiânia
+                type: public
+                active:
+                  - from: 1952-08-27
       MA:
         name: Maranhão
         zones:
