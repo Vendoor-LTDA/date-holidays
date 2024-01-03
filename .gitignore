@@ -3,7 +3,6 @@ coverage/
 output/
 attic/
 dist/
-src/data.js
 tmp/
 lib/
 *.log
