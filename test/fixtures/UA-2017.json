@@ -148,7 +148,7 @@
   {
     "date": "2017-10-14 00:00:00",
     "start": "2017-10-13T21:00:00.000Z",
-    "end": "2017-10-14T21:00:00.000Z",
+    "end": "2017-10-14T22:00:00.000Z",
     "name": "День захисника України",
     "type": "public",
     "rule": "10-14 and if saturday, sunday then next monday since 2015 and prior to 2023",

@@ -147,9 +147,9 @@
     "_weekday": "Thu"
   },
   {
-    "date": "2015-10-18 00:00:00",
-    "start": "2015-10-17T19:00:00.000Z",
-    "end": "2015-10-18T19:00:00.000Z",
+    "date": "2015-10-18 01:00:00",
+    "start": "2015-10-17T20:00:00.000Z",
+    "end": "2015-10-18T20:00:00.000Z",
     "name": "Dövlət Müstəqilliyi günü",
     "type": "public",
     "rule": "10-18 and if saturday,sunday then next monday",

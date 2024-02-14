@@ -200,7 +200,7 @@
   {
     "date": "2018-11-03 00:00:00",
     "start": "2018-11-02T23:00:00.000Z",
-    "end": "2018-11-03T23:00:00.000Z",
+    "end": "2018-11-04T00:00:00.000Z",
     "name": "Alla Helgons dag",
     "type": "public",
     "rule": "saturday after 10-31",

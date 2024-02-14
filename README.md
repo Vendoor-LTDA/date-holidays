@@ -132,6 +132,8 @@ Countries: 197
 │   ├── BA: Bahia
 │   ├── CE: Ceará
 │   ├── DF: Distrito Federal
+│   ├── GO: Goiás
+│   │   └── GO: Goiânia
 │   ├── MA: Maranhão
 │   ├── MG: Minas Gerais
 │   │   └── BH: Belo Horizonte
