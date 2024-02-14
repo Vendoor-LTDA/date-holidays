@@ -1,5 +1,27 @@
 # Changelog
 
+## [3.23.8](https://github.com/commenthol/date-holidays/compare/3.23.7...3.23.8) (2024-02-08)
+
+- fix(AT,#455): josefitag set to type school [8adc4b72](https://github.com/commenthol/date-holidays/commit/8adc4b7239bbd79d401544298ffcb26277592c08)
+- fix(SG): Fix Singapore Hari Raya Puasa date for 2024 - Update SG.yaml [45a75e8f](https://github.com/commenthol/date-holidays/commit/45a75e8fd0c5da4e36ddcd76b6322303ece9f290)
+
+## [3.23.7](https://github.com/commenthol/date-holidays/compare/3.23.6...3.23.7) (2024-01-25)
+
+- fix(SE): Update SE.yaml with english translations [b3f73b13](https://github.com/commenthol/date-holidays/commit/b3f73b13b77255510ae178f487d5073d0ad2c765)
+
+## [3.23.6](https://github.com/commenthol/date-holidays/compare/3.23.5...3.23.6) (2024-01-25)
+
+- fix(#452): replace lodash.pick with lodash [d511e669](https://github.com/commenthol/date-holidays/commit/d511e669381b42f50e8d305fc1a4fc14ca947a2e)
+
+## [3.23.5](https://github.com/commenthol/date-holidays/compare/3.23.4...3.23.5) (2024-01-20)
+
+- chore: disabling dtslint temporarily [a7c91e52](https://github.com/commenthol/date-holidays/commit/a7c91e52e94d5f19cfc7d011b3cc4fd6c5d0df62)
+- fix(HU): good-friday is public holiday since 2017 [ebe4a95c](https://github.com/commenthol/date-holidays/commit/ebe4a95c60c7656c223ac58873444b8724f821d2)
+
+## [3.23.4](https://github.com/commenthol/date-holidays/compare/3.23.3...3.23.4) (2024-01-20)
+
+- fix(ZA): Add ZA Rugby World Cup Win Public Holiday [b169fcfb](https://github.com/commenthol/date-holidays/commit/b169fcfbf01dd07b34fac82547674fe9cd8cc34a)
+
 ## [3.23.3](https://github.com/commenthol/date-holidays/compare/3.23.2...3.23.3) (2023-12-10)
 
 - fix(BR): Add black conscience day as a regional holiday  [8689366a](https://github.com/commenthol/date-holidays/commit/8689366a432e9ccf7b734a087e46ab7b671b143f)
