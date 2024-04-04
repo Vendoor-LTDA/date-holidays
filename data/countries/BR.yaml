@@ -214,15 +214,15 @@ holidays:
           GO:
             name: Goiânia
             days:
-              11-12:
-                _name: 11-12
+              05-24:
+                _name: 05-24
                 name:
                   pt: Nossa Senhora Auxiliadora
                 type: public
                 active:
-                  - from: 1956-11-12
-              08-27:
-                _name: 08-27
+                  - from: 1956-09-03
+              10-24:
+                _name: 10-24
                 name:
                   pt: Aniversário de Goiânia
                 type: public
