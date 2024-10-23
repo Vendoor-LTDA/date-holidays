@@ -1,5 +1,28 @@
 # Changelog
 
+## [3.23.12](https://github.com/commenthol/date-holidays/compare/3.23.11...3.23.12) (2024-05-04)
+
+- test(BQ,CW,SR): fix fixtures [70dbb2d3](https://github.com/commenthol/date-holidays/commit/70dbb2d3142566cf1580be37159f08439713e7c2)
+- fix(NL): improved Dutch translations [b6ae4901](https://github.com/commenthol/date-holidays/commit/b6ae4901248d137f1e8335ce066d83c2baed0198)
+- fix(names): added World Animal Day [38de6fda](https://github.com/commenthol/date-holidays/commit/38de6fda1d56cf537d92b33aa96c52052ea9478a)
+
+## [3.23.11](https://github.com/commenthol/date-holidays/compare/3.23.10...3.23.11) (2024-04-17)
+
+- add corpus christi holiday in São Paulo, SP, BR [7cedeeb8](https://github.com/commenthol/date-holidays/commit/7cedeeb8a8dcde71cf4eeedda7ecefec723ee2c6)
+- Add Voting Day to ZA-2024.json [23580f19](https://github.com/commenthol/date-holidays/commit/23580f19a2bef807ed8c04657d83bb28313643ba)
+- chore: run yaml before build [1ee2e823](https://github.com/commenthol/date-holidays/commit/1ee2e8239ce444ff1f0354be5430c0a9da9e47dd)
+- Remove `string` from HolidayType, so that autocomplete works [3d00852a](https://github.com/commenthol/date-holidays/commit/3d00852a5f250e2340bd2c597406d5509bc689f2)
+- Added ZA public holiday for Voting Day on May 29, 2024 [bfae8b17](https://github.com/commenthol/date-holidays/commit/bfae8b17d74918f341ac2af409c3ed03def35fd4)
+
+## [3.23.10](https://github.com/commenthol/date-holidays/compare/3.23.9...3.23.11) (2024-03-14)
+
+- fix(HU,#464): update the name of the public holiday on March 15 [3d594188](https://github.com/commenthol/date-holidays/commit/3d5941884867a4f000203efde80784dc295c7ec5)
+
+## [3.23.9](https://github.com/commenthol/date-holidays/compare/3.23.8...3.23.9) (2024-02-29)
+
+- fix(SG): Vesak Day 2024 [8940db8f](https://github.com/commenthol/date-holidays/commit/8940db8fb9c2e3a4b23fc57258da1397244ed1cf)
+- fix(SG): Hari Raya Haji day 2024 [a33ff72a](https://github.com/commenthol/date-holidays/commit/a33ff72a1b803f59b2ff1c8cea755d053a285ccc)
+
 ## [3.23.8](https://github.com/commenthol/date-holidays/compare/3.23.7...3.23.8) (2024-02-08)
 
 - fix(AT,#455): josefitag set to type school [8adc4b72](https://github.com/commenthol/date-holidays/commit/8adc4b7239bbd79d401544298ffcb26277592c08)
